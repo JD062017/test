@@ -1,1 +1,1 @@
-cp -pvr "#{config.current_path}/_assets/ /efs/_assets"
+cp -pvr "{config.current_path}/_assets/ /efs/_assets"
