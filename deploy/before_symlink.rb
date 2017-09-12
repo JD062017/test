@@ -1,1 +1,1 @@
-run "cp #{config.current_path}/_assets /efs/"
+run "cp #{config.current_path}/_assets /efs/_assets"
